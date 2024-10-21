@@ -31,9 +31,3 @@ The system includes two levels of administrative authority to maintain and manag
 ### 5. **Security and Data Integrity**
 - Every user must log in using a unique **Login ID** and **password** to maintain system security.
 - In the event of a system crash, data integrity is maintained, ensuring no loss of information.
-
-## Technologies Used
-- **Backend**: [Include the technology stack you are using, e.g., Node.js, Python, Java, etc.]
-- **Frontend**: [Mention frontend tools like React, Angular, etc., if applicable]
-- **Database**: [State the type of database, e.g., MySQL, MongoDB, etc.]
-- **Notifications**: [Indicate the library or service used for sending notifications]
